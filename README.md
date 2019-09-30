@@ -4,7 +4,7 @@
 
 ### 数据集
 
-`train_signs.h5`与`test_signs.h5`。提供方为`Andrew Ng.`。出于版权原因上传，请自行寻找。
+`train_signs.h5`与`test_signs.h5`。提供方为`Andrew Ng.`。出于版权原因不上传，请自行寻找。
 
 ### 标准手势
 
